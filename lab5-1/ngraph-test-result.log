@@ -1,0 +1,129 @@
+batch size: 2
+test data set: test
+image size: 1, minus: 1
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.119
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+174.36557960510254 seconds
+batch size: 4
+test data set: test
+image size: 3, minus: 1
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.060
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+128.19496893882751 seconds
+batch size: 8
+test data set: test
+image size: 3, minus: 5
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.031
+Accuracy of Bread : 87 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+109.84347105026245 seconds
+batch size: 16
+test data set: test
+image size: 3, minus: 13
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.017
+Accuracy of Bread : 85 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+89.33163356781006 seconds
+batch size: 32
+test data set: test
+image size: 19, minus: 13
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.009
+Accuracy of Bread : 85 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+77.84082961082458 seconds
+batch size: 64
+test data set: test
+image size: 19, minus: 45
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.006
+Accuracy of Bread : 78 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+73.42277765274048 seconds
+batch size: 128
+test data set: test
+image size: 19, minus: 109
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.005
+Accuracy of Bread : 68 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+75.20388603210449 seconds
+batch size: 256
+test data set: test
+image size: 19, minus: 237
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.004
+Accuracy of Bread : 53 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+76.6552894115448 seconds
+
